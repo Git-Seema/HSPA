@@ -1,0 +1,41 @@
+[{
+        "Id": 1,
+        "Name": "Jeffs Place",
+        "Type": "Flat",
+        "Price": "R 5700"
+    },
+    {
+        "Id": 2,
+        "Name": "Jeffs Place",
+        "Type": "Flat",
+        "Price": "R 5700"
+    },
+
+    {
+        "Id": 3,
+        "Name": "Jeffs Place",
+        "Type": "Flat",
+        "Price": "R 5700"
+    },
+
+    {
+        "Id": 4,
+        "Name": "Jeffs Place",
+        "Type": "Flat",
+        "Price": "R 5700"
+    },
+
+    {
+        "Id": 5,
+        "Name": "Jeffs Place",
+        "Type": "Flat",
+        "Price": "R 5700"
+    },
+
+    {
+        "Id": 6,
+        "Name": "Jeffs Place",
+        "Type": "Flat",
+        "Price": "R 5700"
+    }
+]
